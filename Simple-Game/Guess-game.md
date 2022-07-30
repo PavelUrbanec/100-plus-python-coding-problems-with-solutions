@@ -4,7 +4,7 @@
 Build a simple guessing game where it will continuously ask the user to enter a number between 1 and 10.
 
 If the user's guesses matched, the user will score 10 points, and display the score. 
-If the users' guess doesn’t match display the generated number. 
+If the users' guess doesn’t match, display the generated number. 
 
 Also, if the user enters “q” then stop the game. 
 
